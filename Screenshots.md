@@ -1,2 +1,2 @@
-![Insurance](https://github.com/DenisPankiv/DBDesing/assets/78309206/615d0e71-32d8-4e03-a696-16671b78b3bd)
-![DatabaseDiagram](https://github.com/DenisPankiv/DBDesing/assets/78309206/0f325fde-039f-46e1-b6f8-848a1aaa85c4)
+![Untitled6](https://github.com/DenisPankiv/DBDesing/assets/78309206/caf33c13-c138-450e-b4cb-c69c1fd74192)
+![Insurance](https://github.com/DenisPankiv/DBDesing/assets/78309206/140894b3-a925-482b-a942-70a86fc77ca3)
